@@ -1,0 +1,20 @@
+Enter file in which to save the key (/c/Users/xn087454/.ssh/id_rsa):
+Created directory '/c/Users/xn087454/.ssh'.
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in /c/Users/xn087454/.ssh/id_rsa.
+Your public key has been saved in /c/Users/xn087454/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:yoce53geFH/cCfaGM0zPAqT4yaoychJemlG8Lv+7SQY 1355214222@qq.com
+The key's randomart image is:
++---[RSA 3072]----+
+|          .      |
+|       . o       |
+|  .   . o . +    |
+|   o   o + * B . |
+|  .E.   S . O B  |
+|.. o.. =   . =   |
+|..*  o* +        |
+|o=+.oo.*..       |
+| +o+o==oo        |
++----[SHA256]-----+
